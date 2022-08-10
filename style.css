@@ -11,19 +11,29 @@ body{
 section{
   display: block;
   
+
 }
+button{
+  color: #dc3545;
+  border-color: #dc3545;
+}
+
+
 .hero-container{
   box-sizing: border-box;
   text-align: center;
   justify-items: center;
-  width: 50em;
-  padding: 0em 0em 0em 30em;
+  width: 60em;
+  padding: 0em 0em 0em 20em;
+  
 }
 a{
  color: #dc3545;
  text-decoration: none;
 
 }
+
+
 
 
 
