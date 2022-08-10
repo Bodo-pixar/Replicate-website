@@ -1,10 +1,16 @@
 body{
   margin: 0;
-  background-color: #fff;
-  padding: 1em;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    padding: 5em;
 }
 section{
   display: block;
+  
 }
 .hero-container{
   box-sizing: border-box;
@@ -13,7 +19,11 @@ section{
   width: 50em;
   padding: 0em 0em 0em 30em;
 }
+a{
+ color: #dc3545;
+ text-decoration: none;
 
+}
 
 
 
