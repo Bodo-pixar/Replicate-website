@@ -14,8 +14,8 @@ section{
 
 }
 button{
-  color: #dc3545;
-  border-color: #dc3545;
+  /* color: #dc3545; */
+  
 }
 
 
@@ -23,8 +23,9 @@ button{
   box-sizing: border-box;
   text-align: center;
   justify-items: center;
-  width: 60em;
+   width: 60em; 
   padding: 0em 0em 0em 20em;
+  
   
 }
 a{
