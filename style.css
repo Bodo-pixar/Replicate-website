@@ -16,10 +16,6 @@ section{
   
 
 }
-button{
-  /* color: #dc3545; */
-  
-}
 
 
 .hero-container{
@@ -39,7 +35,7 @@ button{
   padding:auto;
 }
 a{
- color: #dc3545;
+ color: red;
  text-decoration: none;
 }
 
