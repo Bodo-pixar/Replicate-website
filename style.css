@@ -45,13 +45,13 @@ body{
 .all{ 
    width: 70%; 
   
-border: auto;
+border: 4rem;
   padding: auto;
   margin: 20px;
   display: flex;
   padding-left: auto;
   border-collapse: separate;
-  border-spacing: 15px;
+  
    } 
 .zuri{
   border: 1px;
