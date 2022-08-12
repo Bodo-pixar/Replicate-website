@@ -1,132 +1,98 @@
-body{
+body {
   margin: 0;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5em;
-    color: #212529;
-    text-align: left;
-    background-color: #fff;
-    padding: auto;
-    border: none;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5em;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+  /* padding: auto; */
+  /* padding-right: 20%; */
+  /* padding-left: 20%; */
 }
 
-
-.hero-container{
-  box-sizing: none;
+.hero-container {
+  box-sizing:border-box;
   text-align: center;
   justify-items: center;
-   width:auto; 
-  padding: 5rem 25rem;
+  width: auto;
+   padding: 5rem 25rem;
   height: auto;
-   /* margin-left: 1.4rem;  */
+  /* margin-left: 1.4rem;  */
   background-color: rgb(248, 236, 236);
   
-  
-  
 }
-.programs{
+.programs {
   padding: auto;
-  
-  
+
   /* padding-left: 20%; */
-   /* border: 1px ; */
+  /* border: 1px ; */
   /* margin-top: 5px; */
   /* margin-bottom: 20px; */
   /* margin-right: auto; */
   /* margin-left: auto; */
 }
-.zuri-team{
+.zuri-team {
   display: block;
   justify-content: center;
   align-items: center;
-  text-align:center ;
-
+  text-align: center;
 }
-.all{ 
-   width: 120%; 
-  
-  
-     border-color: #fff;
+.all {
+  width: 120%;
+
+  border-color: #fff;
   padding: 0 25% 0 25%;
-  margin: 100px;
+  margin: auto;
   display: flex;
-  
-  justify-content: center;
- align-items:stretch;
-   } 
-.zuri{
-  border: 3px;
+
   justify-content: center;
   align-items: center;
-  text-align:center ;
-   row-gap:initial ;
-   padding-left: 5rem;
-   border-collapse: separate;
-  border-spacing: 15px;
-   
+  
 }
-.zuri > *>*{
+.zuri {
+  border: 3px;
+
+  text-align: center;
+  row-gap: initial;
+  padding-left: 5rem;
+  
+  border-spacing: 15rem;
+  margin-right: 15%;
+}
+.zuri > * > * {
   border-spacing: 10%;
   flex-basis: 100%;
   justify-items: center;
   align-items: center;
   padding: 5%;
-   
-  
-
 }
-.zuri-one{
-   padding: 3%;
-    row-gap:initial ;
-    margin-top: 3%;
-    margin-bottom: 3%;
-    margin-right: 3%;
-    
-   
-}
-.zuri-two{
+.zuri-one {
   padding: 3%;
-   row-gap:initial ;
-    margin-top: 3%;
-    margin-bottom: 3%;
-    margin-right: 3%;
-  
+  row-gap: initial;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-right: 3%;
 }
-.zuri-three{
+.zuri-two {
   padding: 3%;
-   row-gap:initial ;
-    margin-top: 3%;
-    margin-bottom: 3%;
-    margin-right: 3%;
+  row-gap: initial;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-right: 3%;
+}
+.zuri-three {
+  padding: 3%;
+  row-gap: initial;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-right: 3%;
 }
 
-
-a{
- color: rgb(199, 45, 45);
- text-decoration: none;
+a {
+  color: rgb(199, 45, 45);
+  text-decoration: none;
 }
-span{
+span {
   color: rgb(199, 45, 45);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
