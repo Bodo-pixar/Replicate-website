@@ -43,18 +43,18 @@ body{
 
 }
 .all{ 
-   width: 70%; 
+   width: 100%; 
   
-border: 4rem;
-  padding: auto;
+  
+     border-color: #fff;
+  padding: 0 20% 0 25%;
   margin: 20px;
   display: flex;
   padding-left: auto;
-  border-collapse: separate;
-  
+ 
    } 
 .zuri{
-  border: 1px;
+  border: 3px;
   justify-content: center;
   align-items: center;
   text-align:center ;
@@ -62,6 +62,7 @@ border: 4rem;
    padding-left: 5rem;
    border-collapse: separate;
   border-spacing: 15px;
+   
 }
 .zuri > *>*{
   border-spacing: 10%;
@@ -69,16 +70,14 @@ border: 4rem;
   justify-items: center;
   align-items: center;
   padding: 5%;
+   
   
 
 }
 .zuri-one{
    padding: 3%;
     row-gap:initial ;
-    border-width: 3rem;
-     border-collapse: separate;
-     border-spacing: 15px;
-     display: block;
+   
 }
 .zuri-two{
   padding: 3%;
