@@ -7,14 +7,7 @@ body{
     text-align: left;
     background-color: #fff;
     padding: auto;
-}
-.ultimate{
-  padding: 1.4rem;
-}
-section{
-  display: block;
-  
-
+    border: none;
 }
 
 
@@ -32,8 +25,71 @@ section{
   
 }
 .programs{
-  padding:auto;
+  padding: auto;
+  
+  
+  /* padding-left: 20%; */
+   /* border: 1px ; */
+  /* margin-top: 5px; */
+  /* margin-bottom: 20px; */
+  /* margin-right: auto; */
+  /* margin-left: auto; */
 }
+.zuri-team{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align:center ;
+
+}
+.all{ 
+   width: 70%; 
+  
+border: auto;
+  padding: auto;
+  margin: 20px;
+  display: flex;
+  padding-left: auto;
+  border-collapse: separate;
+  border-spacing: 15px;
+   } 
+.zuri{
+  border: 1px;
+  justify-content: center;
+  align-items: center;
+  text-align:center ;
+   row-gap:initial ;
+   padding-left: 5rem;
+   border-collapse: separate;
+  border-spacing: 15px;
+}
+.zuri > *>*{
+  border-spacing: 10%;
+  flex-basis: 100%;
+  justify-items: center;
+  align-items: center;
+  padding: 5%;
+  
+
+}
+.zuri-one{
+   padding: 3%;
+    row-gap:initial ;
+    border-width: 3rem;
+     border-collapse: separate;
+     border-spacing: 15px;
+     display: block;
+}
+.zuri-two{
+  padding: 3%;
+   row-gap:initial ;
+}
+.zuri-three{
+  padding: 3%;
+   row-gap:initial ;
+}
+
+
 a{
  color: red;
  text-decoration: none;
@@ -60,46 +116,4 @@ a{
 
 
 
-
-    /* -webkit-text-size-adjust: 100%; 
-    -webkit-tap-highlight-color: transparent;
-    --blue: #007bff;
-    --indigo: #6610f2;
-    --purple: #6f42c1;
-    --pink: #e83e8c;
-    --red: #dc3545;
-    --orange: #fd7e14;
-    --yellow: #ffc107;
-    --green: #28a745;
-    --teal: #20c997;
-    --cyan: #17a2b8;
-    --white: #fff;
-    --gray: #6c757d;
-    --gray-dark: #343a40;
-    --primary: #007bff;
-    --secondary: #6c757d;
-    --success: #28a745;
-    --info: #17a2b8;
-    --warning: #ffc107;
-    --danger: #dc3545;
-    --light: #f8f9fa;
-    --dark: #343a40;
-    --breakpoint-xs: 0;
-    --breakpoint-sm: 576px;
-    --breakpoint-md: 768px;
-    --breakpoint-lg: 992px;
-    --breakpoint-xl: 1200px;
-    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    text-align: left;
-    box-sizing: border-box;
-    font-family: Averta, sans-serif;
-    display: block;
-    margin-right: auto!important;
-    margin-left: auto!important;
-    max-width: 1240px !important;
-     margin-top: 215px; */
+    
